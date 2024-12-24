@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 Com mais de 2 anos de experiência em engenharia de software, tenho um foco em desenvolvimento de aplicações web robustas e escaláveis. Trabalho com React e Golang, e tenho uma forte base em PostgreSQL.  
 
 📫 **Vamos conectar?**  
-- 🌐 [GitHub](https://github.com/wagnerrodrigo)  
-- 📧 **wagnerrodrigo.pan@gmail.com**  
+- 🌐 [linkedin](https://www.linkedin.com/in/wagner-rodrigo-da-silva/)  
+<!-- - 📧 **wagnerrodrigo.pan@gmail.com**  -->
 
 ---
 
