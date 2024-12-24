@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **wagnerrodrigo/wagnerrodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Wagner Rodrigo da Silva 🚀
+
+👨‍💻 **Full Stack Developer | Golang | gRPC | React | Typescript | Postgresql**  
+💡 Apaixonado por resolver problemas e criar soluções escaláveis com tecnologias modernas.  
+🌐 Sempre aprendendo.  
+
+---
+
+## 🛠️ Habilidades e Tecnologias
+
+- **Frontend:** React, TypeScript, Zod.
+- **Backend:** Golang, gRPC, PostgreSQL, SQL.  
+- **DevOps:** Docker, Jenkins.
+
+---
+
+## 📈 Projetos em Destaque
+
+- [Uptime Monitor](#): Aplicação completa em Golang e React para monitoramento de serviços.  
+
+---
+
+## 🎯 Sobre Mim
+
+Com mais de 2 anos de experiência em engenharia de software, tenho um foco em desenvolvimento de aplicações web robustas e escaláveis. Trabalho com React e Golang, e tenho uma forte base em PostgreSQL.  
+
+📫 **Vamos conectar?**  
+- 🌐 [GitHub](https://github.com/wagnerrodrigo)  
+- 📧 **wagnerrodrigo.pan@gmail.com**  
+
+---
+
+*"O segredo do sucesso é a constância de propósito." - Benjamin Disraeli*  
+
