@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 📈 Projetos em Destaque
 
-- [Uptime Monitor](#): Aplicação completa em Golang e React para monitoramento de serviços.  
+- [Uptime Monitor](https://github.com/wagnerrodrigo/Golang/tree/main/uptime-monitor): Aplicação completa em Golang e React para monitoramento de serviços.  
 
 ---
 
