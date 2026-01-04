@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## 🎯 Sobre Mim
 
-Com mais de 3 anos de experiência em engenharia de software, tenho um foco em desenvolvimento de aplicações web robustas e escaláveis. Trabalho com React e Golang, e tenho uma forte base em PostgreSQL.  
+Com 6 anos de experiência em engenharia de software, tenho um foco em desenvolvimento de aplicações web robustas e escaláveis. Trabalho com React e Golang, e tenho uma forte base em PostgreSQL.  
 
 📫 **Vamos conectar?**  
 - 🌐 [linkedin](https://www.linkedin.com/in/wagner-rodrigo-da-silva/)  
