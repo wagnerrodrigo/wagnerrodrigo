@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📈 Projetos em Destaque
-
+- [Portfólio/Projetos](https://www.wagnerrodrigo.dev): Site que reúne projeto pessoais e de clientes.
 - [Uptime Monitor](https://github.com/wagnerrodrigo/Golang/tree/main/uptime-monitor): Aplicação completa em Golang e React para monitoramento de serviços.  
 
 ---
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 Com 7 anos de experiência em engenharia de software, tenho um foco em desenvolvimento de aplicações web robustas e escaláveis. Trabalho com React e Golang, e tenho uma forte base em PostgreSQL.  
 
 📫 **Vamos conectar?**  
-- 🌐 [linkedin](https://www.linkedin.com/in/wagner-rodrigo-da-silva/)  
+- 🌐 [linkedin](https://www.linkedin.com/in/wagner-rodrigo-da-silva/)
 <!-- - 📧 **wagnerrodrigo.pan@gmail.com**  -->
 
 ---
